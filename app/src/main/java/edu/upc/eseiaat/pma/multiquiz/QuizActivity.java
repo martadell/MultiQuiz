@@ -56,7 +56,9 @@ public class QuizActivity extends AppCompatActivity {
                         if (b) correct++;
                         else incorrect++; }
 
-                    String result = String.format("corect: %d, incorrect: %d", correct, incorrect);
+
+                    String result = String.format("correct: %d, incorrect: %d", correct, incorrect);
+                    //String result = String.format("%s: %d, %s: %d", R.string.correct, correct, R.string.incorrect, incorrect);
 
                     Toast.makeText(QuizActivity.this, result, Toast.LENGTH_LONG).show();
                     finish(); }
@@ -119,6 +121,8 @@ public class QuizActivity extends AppCompatActivity {
             else {
                 btn_next.setText(R.string.next); }
     }
+
+
 }
 
 

@@ -5,6 +5,6 @@
     <string name="next">Siguiente</string>
     <string name="prev">Atrás</string>
     <string name="text_question">Cuál es la capital de Bután?</string>
-    <string name="correct">"Correctas: "</string>
-    <string name="incorrect">"Incorrectas: "</string>
+    <string name="correct">Correctas</string>
+    <string name="incorrect">Incorrectas</string>
 </resources>
