@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="finish">Acaba</string>
+    <string name="label_question">Pregunta</string>
+    <string name="next">Següent</string>
+    <string name="prev">Enrere</string>
+    <string name="text_question">Quina és la capital de Bhutan?</string>
+    <string name="correct">"Correctes: "</string>
+    <string name="incorrect">"Incorrectes: "</string>
+</resources>
